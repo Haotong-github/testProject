@@ -12,5 +12,7 @@ public class UserDaoImpl {
 		logger.warn("----warn");
 		logger.error("----error");
 		logger.info("finally");
+		
+		System.out.println("213");
 	}
 }
