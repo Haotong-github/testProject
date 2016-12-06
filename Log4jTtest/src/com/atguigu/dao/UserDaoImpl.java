@@ -14,5 +14,6 @@ public class UserDaoImpl {
 		logger.info("finally");
 		
 		System.out.println("213");
-	}
+		System.out.println("123");	
+}
 }
